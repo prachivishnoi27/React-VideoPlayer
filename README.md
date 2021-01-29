@@ -1,5 +1,5 @@
 # React-VideoPlayer
-Basic video player implemented in reactjs
+Basic video player.
 
 Link: https://prachivishnoi27.github.io/React-VideoPlayer/
 
